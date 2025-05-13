@@ -1,5 +1,5 @@
 # Old Pyrokinesis Records
-This is a complete list of all records that were done on the TF2 server map `jump_pyrokinesis_rc1` prior to the server's shutdown on the 17th of March, 2025. For each player, only their personal best time is saved. The GitHub markdown tables are sorted by the best times, if you'd like to filter/sort the records differently, check out `pyrokinesis.xlsx`.
+This is a complete list of all records that were done on the TF2 server map `jump_pyrokinesis_rc1` prior to the server's shutdown on the 17th of March, 2025. For each player, only their personal best time is saved. The GitHub markdown tables are sorted by the best times.
 
 The **"Time"** column is formatted in `H:MM:SS.fff`. The **"Jumps"** column shows the amount of times a player's character has `+jump`ed (eg. by pressing the space key) and does not reflect the amount of Detonator shots fired. Additionally, jump counts for most players have not been saved, because their runs were done before their jumps were being recorded. The **"Date"** column shows the date (and time) when the record/run was saved, formatted in `DD-Mmm-YY HH:MM:SS`. The **"Comps"** column shows the amount of times a player has completed a specific track.
 
